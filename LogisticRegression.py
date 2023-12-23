@@ -4,7 +4,7 @@ Created on Fri Dec 15 21:54:41 2023
 
 @author: admin
 """
-
+print("alk)
 # -*- coding: utf-8 -*-
 """
 Created on Fri Dec 15 18:18:42 2023
